@@ -1,2 +1,3 @@
 # hello-world
-this is my first repository on GitHub
+Hi everybody! I am a self-taught web developer with a newly discovered passion for coding.
+I like coffee and solving problems.
